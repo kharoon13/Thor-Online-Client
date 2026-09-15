@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DOCUMENT Type="Advanced Installer" CreateVersion="24.0" version="24.0" Modules="update" RootPath="." Language="tr" Id="{39ABA6F2-890B-4FBB-9FCC-0C13106AFAD8}">
+  <COMPONENT cid="caphyon.advinst.msicomp.ProjectOptionsComponent">
+    <ROW Name="BackUpAipBeforeSave" Value="1"/>
+    <ROW Name="BackUpFolderPath" Value="[|AI_AIP_FOLDER][|AI_AIP_FILENAME]-backups\[|Date]_[|Time].aip_backup" ValueType="1"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.DictionaryComponent">
+    <ROW Path="&lt;AI_DICTS&gt;aiu-ue.ail"/>
+  </COMPONENT>
+  <COMPONENT cid="caphyon.advinst.msicomp.UpdaterEditorComponent">
+    <ROW Section="Update" Key="Name" Value="Thor Online Client"/>
+    <ROW Section="Update" Key="ProductVersion" Value="1.0.0.0" ValueLocId="-"/>
+    <ROW Section="Update" Key="URL" Value="https://github.com/kharoon13/Thor-Online-Client/raw/refs/heads/main/updates.txt" ValueLocId="-"/>
+    <ROW Section="Update" Key="Size" Value="Thor Online Client-SetupFiles\Thor Online Client.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="ReleaseDate" Value="23855" ValueLocId="-"/>
+    <ROW Section="Update" Key="SHA256" Value="Thor Online Client-SetupFiles\Thor Online Client.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="MD5" Value="Thor Online Client-SetupFiles\Thor Online Client.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="ServerFileName" Value="Thor Online Client.exe" ValueLocId="-"/>
+    <ROW Section="Update" Key="Flags" Value="Critical" ValueLocId="-"/>
+    <ROW Section="Update" Key="RegistryKey" Value="HKUD\Software\Thor\Thor Online Client\Version" ValueLocId="-"/>
+    <ROW Section="Update" Key="Version" Value="1.0.0.0" ValueLocId="-"/>
+    <ATTRIBUTE name="OutputFileName" value=".txt"/>
+  </COMPONENT>
+</DOCUMENT>
