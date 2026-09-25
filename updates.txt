@@ -1,0 +1,13 @@
+;aiu;
+
+[Update]
+Name = Thor Online Client
+ProductVersion = 1.0.0.0
+URL = https://github.com/kharoon13/Thor-Online-Client/raw/refs/heads/main/Thor%20Online%20Client.exe
+Size = 72239876
+SHA256 = 0D299C6D887136B22A5FEA6F808ADA241802D3F37FCBBB7FF2B0765DFC1733E5
+MD5 = 5e501d89321cf037b0fd2b0b6efced21
+ServerFileName = Thor Online Client.exe
+Flags = Critical
+RegistryKey = HKUD\Software\Thor\Thor Online Client\Version
+Version = 1.0.0.0
