@@ -3,11 +3,12 @@
 [Update]
 Name = Thor Online Client
 ProductVersion = 1.0.6.0
-URL = https://github.com/kharoon13/Thor-Online-Client/raw/refs/heads/main/Thor%20Online%20Client%201.0.6.exe
-Size = 77268359
-SHA256 = 3B81A6F09F39F0B7437D85F1870198072579031FA05FD602FCC3ED4473365095
-MD5 = d8ba45d5d7ccba12753b9ab30faadf97
-ServerFileName = Thor Online Client 1.0.6.exe
+URL = https://github.com/kharoon13/Thor-Online-Client/raw/refs/heads/main/Thor%20Online%20Client%201.0.7.exe
+Size = 78977532
+ReleaseDate = 03/10/2026
+SHA256 = 6A2B908B0C3F76EC28E20F312E1B59EDF124A90683D11CB4952DF40BDB650A2D
+MD5 = 82823f6de21d609416b4c3b701ff4139
+ServerFileName = Thor Online Client 1.0.7.exe
 Flags = Critical
 RegistryKey = HKUD\Software\Thor\Thor Online Client\Version
 Version = 1.0.6.0
